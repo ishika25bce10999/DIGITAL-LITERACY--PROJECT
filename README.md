@@ -35,8 +35,7 @@ I created profiles on GitHub, LinkedIn and HackerRank to build my professional p
 
 I worked on a coding problem on HackerRank. This was a problem that people who are new to coding can try to solve. I also made a quiz on Google Forms to help my friends learn more about computers and the internet. I took pictures of my work. Added links so you can see what I did. These platforms are really helpful for learning and working with people.
 
-Quiz Link: https://forms.gle/KrojqnktnA5Rqv7r5
-
+Quiz Link:https://forms.gle/SHB9ZxMs5RHqTgou5
 ## Module 4 – Professional Communication & Social Media
 
 I wrote two emails like a professional. One email was to a teacher. The other was to someone who helps people find internships. I also made a list of things to do. Not to do on social media. This module really helped me understand how to communicate and be polite on the internet.
