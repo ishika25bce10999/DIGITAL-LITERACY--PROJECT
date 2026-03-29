@@ -3,11 +3,17 @@ This project focuses on building digital literacy and responsible online behavio
 
 ## STUDENT DETAILS                                                                                      
 Name: ISHIKA
+
 Registration Number: 25BCE10999
+
 Branch: B.Tech CSE (CORE)
+
 Year: FIRST YEAR
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
+
 University: VIT Bhopal University
 
 ## Project Overview
